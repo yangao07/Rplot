@@ -6,5 +6,5 @@
 Rscript barplot.R in.dat
 ```
 #### stacked barplot example
-![barplot](https://github.com/yangao07/Rplot/master/figure/barplot.png)
+![barplot](https://github.com/yangao07/Rplot/blob/master/figure/barplot.png)
 
