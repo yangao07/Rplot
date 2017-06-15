@@ -1,2 +1,10 @@
 # Rplot
-R code for plotting figures
+## R code for plotting figures
+
+### 1. Stacked barplot
+```
+Rscript barplot.R in.dat
+```
+#### stacked barplot example
+![barplot](https://github.com/yangao07/Rplot/master/figure/barplot.png)
+
