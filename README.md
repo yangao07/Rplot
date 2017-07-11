@@ -21,3 +21,10 @@ Rscript scatterPlot.R in.dat
 ```
 #### scatter plot example
 ![scatterplot](https://github.com/yangao07/Rplot/blob/master/figure/scatterPlot.png)
+
+### 4. Two histogram plots
+```
+Rscript twoHistPlot.R in1.dat in2.dat
+```
+#### two histgram plots example
+![twohistplot](https://github.com/yangao07/Rplot/blob/master/figure/twoHistPlot.png)
