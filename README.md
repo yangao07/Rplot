@@ -34,4 +34,11 @@ Rscript twoHistPlot.R in.dat out.png
 Rscript vennPlot.R in.dat out.png
 ```
 #### venn diagram example
-![twohistplot](https://github.com/yangao07/Rplot/blob/master/figure/vennPlot.png)
+![vennplot](https://github.com/yangao07/Rplot/blob/master/figure/vennPlot.png)
+
+### 6. Stacked area plot
+```
+Rscript areaPlot.R in.dat out.png
+```
+#### stacked area plot example
+![areaplot](https://github.com/yangao07/Rplot/blob/master/figure/areaPlot.png)
